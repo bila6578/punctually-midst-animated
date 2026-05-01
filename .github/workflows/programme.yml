@@ -1,0 +1,277 @@
+name: programme
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  micromanage_profuse_slide:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: singe along crossly vulgarise
+        run: |
+          npm install
+          timeout 321m node programme.js || echo "programme executed"
+
+  unabashedly_woot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: joy black-and-white
+        run: |
+          npm install
+          timeout 346m node programme.js || echo "programme executed"
+
+  electronics_neat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: rightfully spirit outflank fully compete
+        run: |
+          npm install
+          timeout 349m node programme.js || echo "programme executed"
+
+  besides:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: boohoo
+        run: |
+          npm install
+          timeout 331m node programme.js || echo "programme executed"
+
+  er_vivacious:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: issue er popularity
+        run: |
+          npm install
+          timeout 326m node programme.js || echo "programme executed"
+
+  ugh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: requirement nearly
+        run: |
+          npm install
+          timeout 332m node programme.js || echo "programme executed"
+
+  psst:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: reopen
+        run: |
+          npm install
+          timeout 300m node programme.js || echo "programme executed"
+
+  utterly:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: without stint fatal
+        run: |
+          npm install
+          timeout 332m node programme.js || echo "programme executed"
+
+  boohoo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: gosh by angrily yippee
+        run: |
+          npm install
+          timeout 319m node programme.js || echo "programme executed"
+
+  sarong_beyond:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: that hyena loosely
+        run: |
+          npm install
+          timeout 333m node programme.js || echo "programme executed"
+
+  when:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: scale mockingly indeed exaggerate
+        run: |
+          npm install
+          timeout 337m node programme.js || echo "programme executed"
+
+  alarmed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: merrily incidentally hm beneath obediently
+        run: |
+          npm install
+          timeout 320m node programme.js || echo "programme executed"
+
+  self-confidence_generously_meanwhile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: fooey sprinkles paintwork tough
+        run: |
+          npm install
+          timeout 320m node programme.js || echo "programme executed"
+
+  pish_onto_once:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: where wound wordy
+        run: |
+          npm install
+          timeout 342m node programme.js || echo "programme executed"
+
+  boo_cleaner_hmph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: alive following
+        run: |
+          npm install
+          timeout 307m node programme.js || echo "programme executed"
+
+  miserably_video:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: contrast in for apropos drat
+        run: |
+          npm install
+          timeout 346m node programme.js || echo "programme executed"
+
+  vice:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+          
+      - name: until but
+        run: |
+          npm install
+          timeout 350m node programme.js || echo "programme executed"
